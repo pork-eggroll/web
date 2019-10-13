@@ -2,13 +2,13 @@
 
 	<head>
 
-		<title>WEB_LES</title>
+		<title> kek </title>
 
 	</head>
 
 	<body>
 
-		<p> hola my name is angelina and i like frogs :) </p>
+		<p> hola, my name is angelina and i like frogs :) </p>
 
 	</body>
 
